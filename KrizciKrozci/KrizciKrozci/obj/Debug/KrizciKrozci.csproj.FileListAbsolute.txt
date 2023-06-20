@@ -1,0 +1,44 @@
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe.config
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.AssemblyReference.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Okno.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Properties.Resources.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.GenerateResource.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.CoreCompileInputs.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe.config
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.AssemblyReference.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Okno.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Properties.Resources.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.GenerateResource.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.CoreCompileInputs.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\bin\Debug\KrizciKrozci.exe.config
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\bin\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\bin\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.AssemblyReference.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.Okno.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.Properties.Resources.resources
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.GenerateResource.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.CoreCompileInputs.cache
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\KrizciKrozci - Copy\KrizciKrozci\obj\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe.config
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\bin\Debug\KrizciKrozci.pdb
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.AssemblyReference.cache
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Okno.resources
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.Properties.Resources.resources
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.GenerateResource.cache
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.csproj.CoreCompileInputs.cache
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.exe
+C:\Users\Payana\Desktop\Faks\IgraKrizciKrozci\KrizciKrozci\obj\Debug\KrizciKrozci.pdb
